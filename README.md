@@ -1,2 +1,2 @@
 # home-automation
-working on IOt based project on electronics item
+we can control our electronic devices through server
